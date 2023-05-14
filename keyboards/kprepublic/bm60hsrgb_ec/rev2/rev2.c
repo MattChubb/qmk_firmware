@@ -127,8 +127,6 @@ bool rgb_matrix_indicators_kb(void) {
     return true;
 }
 #endif
-<<<<<<< HEAD
-=======
 
 // #ifdef ENCODER_ENABLE
 // bool encoder_update_kb(uint8_t index, bool clockwise) {
@@ -143,4 +141,3 @@ bool rgb_matrix_indicators_kb(void) {
 //     return true;
 // }
 // #endif
->>>>>>> 043573e993 (Bind things to the encoder)
